@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*headerの幅＆背景色*/
+header{
+	width: 1000px;
+	background-color: #ffcccc;
+}
+
+/*footerの幅＆背景色*/
+footer{
+	width: 1000px;
+	background-color: #ffccff;
+}
+
+/*main＆menuの設定*/
+#wrapper{
+	width: 1000px;
+	display: flex;
+	justify-content: space-between;
+}
+
+/*main&menuの幅＆背景色*/
+#main {
+    width: 700px;
+    background-color: #ccffcc;
+}
+#menu {
+    width: 300px;
+    background-color: #ccccff;
+}
